@@ -1,0 +1,77 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.logo-size img
+{
+    width: 50%;
+}
+.position a
+{
+    margin-left: 40px;
+    padding-left: 5px;
+}
+.button-design img
+{
+    width: 20px ;
+}
+.button-design
+{
+    border-radius: 10px;
+    background-color:rgb(18, 1, 58);
+    color: white;
+    padding: 15px 25px;
+
+}
+
+.Submit-button
+{
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+    background-color: rgba(12, 51, 61, 0.911);
+
+}
+.newbtn img
+{
+    width: 60px;
+}
+.newbtn
+{
+    background-color: brown;
+}
+.icon-size img
+{
+    width: 70px;
+    margin-right: 20px;
+}
+.display-img img
+{
+    width: 100%;
+}
+.card-modification
+{
+    border-radius: 10px;
+    padding: 20px;
+    border: 0px;
+    
+}
+.images-background
+{
+    background-color: lightgrey;
+    height: 300px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+h2
+{
+    color: rgb(162, 223, 162);
+}
+h1
+{
+    font-size: 50px;
+}
+
